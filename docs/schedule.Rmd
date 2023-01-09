@@ -38,13 +38,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td>Welcome to Epsy 8252</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-01-regression-recap.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-01-regression-recap.html)
 </td>
 <td align="center" style="vertical-align:middle;">
-   [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-01-regression-recap.Rmd)
+   [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-01-regression-recap.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-01-regression-recap.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-01-regression-recap.R)
 </td>
 </tr>
 
@@ -67,7 +67,7 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Introduction to R Markdown</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-00-rmarkdown.zip)
+  [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-00-rmarkdown.zip)
 </td>
 <td align="center" style="vertical-align:middle;">
   <span class="fab fa-markdown" style="color: #f1f1f1; font-size: 17px;"></span>
@@ -86,7 +86,7 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Creating Tables with kable()</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-00-rmarkdown.zip)
+  [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-00-rmarkdown.zip)
 </td>
 <td align="center" style="vertical-align:middle;">
   <span class="fab fa-markdown" style="color: #f1f1f1; font-size: 17px;"></span>
@@ -116,13 +116,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">Probability Distributions</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-04-working-with-probability-distributions.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-04-working-with-probability-distributions.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-04-working-with-probability-distributions.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-04-working-with-probability-distributions.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-04-working-with-probability-distributions.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-04-working-with-probability-distributions.R)
 </td>
 </tr>
 
@@ -143,13 +143,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="3">Likelihood: A framework for evidence</td>
 <td align="center" style="vertical-align:middle;" rowspan="3">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-06-likelihood-evidence.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-06-likelihood-evidence.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="3">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-06-likelihood-evidence.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-06-likelihood-evidence.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="3">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-06-likelihood-evidence.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-06-likelihood-evidence.R)
 </td>
 </tr>
 
@@ -175,13 +175,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Likelihood: A framework for estimation</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-07-likelihood-estimation.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-07-likelihood-estimation.html)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-07-likelihood-estimation.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-07-likelihood-estimation.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-07-likelihood-estimation.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-07-likelihood-estimation.R)
 </td>
 </tr>
 
@@ -195,13 +195,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">Information Criteria and Model Selection</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-08-information-criteria-and-model-selection.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-08-information-criteria-and-model-selection.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-08-information-criteria-and-model-selection.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-08-information-criteria-and-model-selection.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-08-information-criteria-and-model-selection.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-08-information-criteria-and-model-selection.R)
 </td>
 </tr>
 
@@ -232,13 +232,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">Polynomial effects</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-09-polynomial-effects.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-09-polynomial-effects.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-09-polynomial-effects.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-09-polynomial-effects.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-09-polynomial-effects.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-09-polynomial-effects.R)
 </td>
 </tr>
 
@@ -259,13 +259,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">Log-Transforming the Predictor</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-10-logarithmic-transformations-predictor.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-10-logarithmic-transformations-predictor.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-10-logarithmic-transformations-predictor.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-10-logarithmic-transformations-predictor.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-10-logarithmic-transformations-predictor.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-10-logarithmic-transformations-predictor.R)
 </td>
 </tr>
 
@@ -287,13 +287,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Log-Transforming the Outcome</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-11-logarithmic-transformations-outcome.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-11-logarithmic-transformations-outcome.html)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-11-logarithmic-transformations-outcome.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-11-logarithmic-transformations-outcome.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-11-logarithmic-transformations-outcome.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-11-logarithmic-transformations-outcome.R)
 </td>
 </tr>
 
@@ -330,13 +330,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Rule of "the Bulge"&mdash;An Example</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-12-rule-of-the-bulge.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-12-rule-of-the-bulge.html)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-12-rule-of-the-bulge.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-12-rule-of-the-bulge.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-12-rule-of-the-bulge.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-12-rule-of-the-bulge.R)
 </td>
 </tr>
 
@@ -360,13 +360,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Linear Probability Models</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-13-linear-probability-models.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-13-linear-probability-models.html)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-13-linear-probability-models.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-13-linear-probability-models.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-13-linear-probability-models.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-13-linear-probability-models.R)
 </td>
 </tr>
 
@@ -380,13 +380,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">Logistic Regression Model</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-14-logistic-regression.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-14-logistic-regression.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-14-logistic-regression.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-14-logistic-regression.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-14-logistic-regression.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-14-logistic-regression.R)
 </td>
 </tr>
 
@@ -407,13 +407,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">More Logistic Regression</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-15-logistic-regression-ii.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-15-logistic-regression-ii.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-15-logistic-regression-ii.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-15-logistic-regression-ii.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-15-logistic-regression-ii.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-15-logistic-regression-ii.R)
 </td>
 </tr>
 
@@ -435,13 +435,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 <!-- </td> -->
 <!-- <td style="vertical-align:middle;">Logistic Regression Models: Part II</td> -->
 <!-- <td align="center" style="vertical-align:middle;"> -->
-<!--   [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-15-logistic-regression-ii.html) -->
+<!--   [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-15-logistic-regression-ii.html) -->
 <!-- </td> -->
 <!-- <td align="center" style="vertical-align:middle;"> -->
-<!--   [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-15-logistic-regression-ii.Rmd) -->
+<!--   [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-15-logistic-regression-ii.Rmd) -->
 <!-- </td> -->
 <!-- <td align="center" style="vertical-align:middle;"> -->
-<!--   [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-15-logistic-regression-ii.R) -->
+<!--   [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-15-logistic-regression-ii.R) -->
 <!-- </td> -->
 <!-- </tr> -->
 
@@ -465,13 +465,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;">Introduction to Mixed-Effects Regression Models</td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-16-introduction-to-mixed-effects-models.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-16-introduction-to-mixed-effects-models.html)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-16-introduction-to-mixed-effects-models.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-16-introduction-to-mixed-effects-models.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-16-introduction-to-mixed-effects-models.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-16-introduction-to-mixed-effects-models.R)
 </td>
 </tr>
 
@@ -492,13 +492,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">LMER: Average Change Over Time</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-17-lmer-average-change-over-time.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-17-lmer-average-change-over-time.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-17-lmer-average-change-over-time.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-17-lmer-average-change-over-time.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-17-lmer-average-change-over-time.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-17-lmer-average-change-over-time.R)
 </td>
 </tr>
 
@@ -520,13 +520,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">LMER: Other Random-Effects and Covariates</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-18-lmer-other-random-effects-and-covariates.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-18-lmer-other-random-effects-and-covariates.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-18-lmer-other-random-effects-and-covariates.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-18-lmer-other-random-effects-and-covariates.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-18-lmer-other-random-effects-and-covariates.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-18-lmer-other-random-effects-and-covariates.R)
 </td>
 </tr>
 
@@ -547,13 +547,13 @@ Below is the tentative schedule for the class. The dates are subject to change a
 </td>
 <td style="vertical-align:middle;" rowspan="2">LMER: Alternative Representations and Assumptions</td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/epsy-8252/notes/s22-19-lmer-alt-representations-and-assumptions.html)
+  [<span class="fas fa-link" style="color: #ff2600; font-size: 17px;"></span>](https://zief0002.github.io/gentrified-ladybug/notes/s22-19-lmer-alt-representations-and-assumptions.html)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-19-lmer-alt-representations-and-assumptions.Rmd)
+  [<span class="fab fa-markdown" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-19-lmer-alt-representations-and-assumptions.Rmd)
 </td>
 <td align="center" style="vertical-align:middle;" rowspan="2">
-  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/epsy-8252/raw/master/scripts/s22-19-lmer-alt-representations-and-assumptions.R)
+  [<span class="fa fa-code" style="color: #ff2600; font-size: 17px;"></span>](https://github.com/zief0002/gentrified-ladybug/raw/main/scripts/s22-19-lmer-alt-representations-and-assumptions.R)
 </td>
 </tr>
 

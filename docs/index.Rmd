@@ -61,7 +61,7 @@ Peter Li ([lixx1474@umn.edu](mailto://lixx1474@umn.edu))  <br />
 
 ### Syllabus {-}
 
-- The course syllabus is available  [here](https://github.com/zief0002/epsy-8252/raw/master/syllabus/s22-8252-syllabus.pdf).
+- The course syllabus is available  [here](https://github.com/zief0002/gentrified-ladybug/raw/main/syllabus/s22-8252-syllabus.pdf).
 - [Message from Snoop Dogg](https://t.co/5X88O0DBUZ?amp=1) about the syllabus
 
 <br />
@@ -121,7 +121,7 @@ For the topics listed, students would be expected to be able to carry out an app
 
 Here are two resources that might be useful:
 
-- [Computational Toolkit for Educational Scientists](https://zief0002.github.io/toolkit/)
+- [Computational Toolkit for Educational Scientists](https://zief0002.github.io/toolkit-quarto/)
 - [Statistical Modeling and Computation for Educational Scientists](https://zief0002.github.io/modeling/)
 
 <!-- ### Other QME Courses -->

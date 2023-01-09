@@ -8,7 +8,7 @@ As part of the course, there are several articles, papers and technical reports 
 
 **Required**
 
-- Download and read through the [course syllabus](https://github.com/zief0002/epsy-8252/raw/master/syllabus/s22-8252-syllabus.pdf)
+- Download and read through the [course syllabus](https://github.com/zief0002/gentrified-ladybug/raw/main/syllabus/s22-8252-syllabus.pdf)
 - Make sure you have the most recent versions of [R (version 4.1.2; *Bird Hippie*)](https://www.r-project.org/) and [RStudio (version 2021.09.1+372 "ghost Orchid")](https://www.rstudio.com/) installed on your computer. You can update RStudio by "Checking for Updates" within RStudio. To determine which version of R you have installed, type `R.version` in the console. To update R, you will have to download the most current version and install it from the website.
 
 ---
@@ -19,7 +19,7 @@ As part of the course, there are several articles, papers and technical reports 
 **Required**
 
 - Read [YAML: An Overview](https://cran.r-project.org/web/packages/ymlthis/vignettes/yaml-overview.html)
-- Download the [s22-00-rmarkdown directory](https://github.com/zief0002/epsy-8252/raw/master/docs/notes/s22-00-rmarkdown.zip) and unzip it. This directory includes class notes and examples of several R Markdown documents.
+- Download the [s22-00-rmarkdown directory](https://github.com/zief0002/gentrified-ladybug/raw/main/docs/notes/s22-00-rmarkdown.zip) and unzip it. This directory includes class notes and examples of several R Markdown documents.
 
 <!-- <br /> -->
 
@@ -27,8 +27,8 @@ As part of the course, there are several articles, papers and technical reports 
 
 <!-- In addition to the notes and what we cover in class, there many other resources for learning about R Markdown. Here are some resources that may be helpful in that endeavor: -->
 
-<!-- - [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span> Knitting to PDF [Notes]](https://github.com/zief0002/epsy-8252/raw/master/notes/rmarkdown/s21-knitting-to-pdf.pdf) -->
-<!-- - [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span> Slides with xaringan [Notes]](https://github.com/zief0002/epsy-8252/raw/master/notes/rmarkdown/s21-slides-with-xaringan.pdf) -->
+<!-- - [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span> Knitting to PDF [Notes]](https://github.com/zief0002/gentrified-ladybug/raw/main/notes/rmarkdown/s21-knitting-to-pdf.pdf) -->
+<!-- - [<span class="fa fa-file-pdf" style="color: #ff2600; font-size: 17px;"></span> Slides with xaringan [Notes]](https://github.com/zief0002/gentrified-ladybug/raw/main/notes/rmarkdown/s21-slides-with-xaringan.pdf) -->
 
 
 ---
